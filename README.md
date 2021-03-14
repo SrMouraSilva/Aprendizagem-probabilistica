@@ -1,2 +1,3 @@
 # Aprendizagem-probabilistica
-Repositório para a disciplina Aprendizagem Probabilística
+
+Repositório para os trabalhos referentes a disciplina de Aprendizagem Probabilística
